@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='H-895-MaxFrqStack'/>
+        <page name='M-322-Coin-Change'/>
+        <page name='M-213-HouseRobberII'/>
+        <page name='E-53-MaximumSubArray'/>
+        <page name='E-70-ClimbingStairs'/>
+        <page name='E-1103-DistributeCandies'/>
+        <page name='152-M-MaxProductSubArray'/>
+        <page name='M-19-RemoveNthNode'/>
+        <page name='E-212-BuySell'/>
+        <page name='E-122-BuySell-II'/>
+        <page name='123-H-BuySell-III'/>
+        <page name='M-11-MostWaterContainer'/>
+        <page name='H-42-TrapRainWater'/>
+        <page name='Not-in-lc-1'/>
+        <page name='1089-E-DuplicateZeros'/>
+        <page name='1109_CorporateFlightBookings'/>
+    </pages>
+</playground>
